@@ -11,11 +11,20 @@
 ### You must use Pandas to answer the following questions:
 
 ### How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
+![Screenshot](/images/number_race.png)
 ### What is the average age of men?
+![Screenshot](/images/ave_menAge.png)
 ### What is the percentage of people who have a Bachelor's degree?
+![Screenshot](/images/per_bach.png)
 ### What percentage of people with advanced education (Bachelors, Masters, or Doctorate) make more than 50K?
+![Screenshot](/images/per_higher_ed.png)
 ### What percentage of people without advanced education make more than 50K?
+![Screenshot](/images/per_without_higher.png)
 ### What is the minimum number of hours a person works per week?
+![Screenshot](/images/min_work.png)
 ### What percentage of the people who work the minimum number of hours per week have a salary of more than 50K?
+![Screenshot](/images/per_of_rich.png)
 ### What country has the highest percentage of people that earn >50K and what is that percentage?
+![Screenshot](/images/country_high.png)
 ### Identify the most popular occupation for those who earn >50K in India.
+![Screenshot](/images/top_occu.png)
