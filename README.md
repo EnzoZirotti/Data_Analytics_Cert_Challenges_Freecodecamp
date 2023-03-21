@@ -8,7 +8,7 @@
 
 ## 2.Demographic Data Analyzer
 ### The second challenge was to analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database.  
-###You must use Pandas to answer the following questions:
+### You must use Pandas to answer the following questions:
 
 ### How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 ### What is the average age of men?
